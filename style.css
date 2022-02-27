@@ -1,0 +1,21 @@
+body
+{
+	text-align: center;
+    background-color: bisque;
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: lightblue;
+	border-radius: 20px;
+}
+
+#draw
+{
+    background-color: darkblue;
+    color: white;
+}
